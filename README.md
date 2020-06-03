@@ -1,2 +1,3 @@
 # hello Git
- primeiro repositorio
+Aprendendo a inpecionar o repositorio.
+curso em video
